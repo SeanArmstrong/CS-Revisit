@@ -1,20 +1,3 @@
-# Google Interview University
-
-Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
-
-## What is it?
-
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
-
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
-sometimes word-for-word in Google's coaching notes.
-
----
-
 ## Table of Contents
 
 - [What is it?](#what-is-it)
@@ -177,7 +160,7 @@ apply through a referral I've been holding onto since February (yes, February).
 ## Follow Along with Me
 
 I'm on the journey, too. Follow along:
- 
+
 - **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
 - Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
 - Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
@@ -300,7 +283,7 @@ Make your own for free:
 same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
 your brain.
 
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember. 
+An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember.
 It's user friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
@@ -354,9 +337,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
-- [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **How computers process a program:**
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **Compilers**
     - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
@@ -1768,4 +1751,3 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-
